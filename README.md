@@ -1,4 +1,5 @@
-# Halo ! Call me Naufal, a computer science student at IPB University
+### Hi There 👋
+# Call me Naufal, a computer science student at IPB University
 
 - 🧑‍💻 Software Developer learner 
 
