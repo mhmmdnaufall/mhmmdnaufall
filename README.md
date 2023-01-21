@@ -15,6 +15,7 @@
 <a href="https://maven.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="Maven" height="50" style="max-width: 100%"/></a>
 <a href="https://gradle.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" alt="Gradle" height="50" style="max-width: 100%"/></a>
 <a href="https://www.mysql.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySql" height="50" style="max-width: 100%"/></a>
+<a href="https://www.mongodb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" height="50" style="max-width: 100%"/></a>
 ### **DevOps**
 <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="50" style="max-width: 100%"/></a>
 <a href="https://www.docker.com/"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="50" style="max-width: 100%"/></a>
