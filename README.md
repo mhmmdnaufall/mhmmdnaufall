@@ -19,6 +19,7 @@
 ### **DevOps**
 <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="50" style="max-width: 100%"/></a>
 <a href="https://www.docker.com/"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="50" style="max-width: 100%"/></a>
+<a href="https://www.jenkins.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" height="50" style="max-width: 100%"/></a>
 
 ## Find me ! 📞
 
