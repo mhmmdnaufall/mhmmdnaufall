@@ -8,6 +8,7 @@
 ### **Frontend**
 <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/260px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="50" style="max-width: 100%"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="50" style="max-width: 100%"/></a>
+<a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="50" style="max-width: 100%"/></a>
 ### **Backend**
 <a href="https://www.java.com/en/"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="50" style="max-width: 100%"/></a> &emsp;
 <a href="https://kotlinlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="50" style="max-width: 100%"/></a>
